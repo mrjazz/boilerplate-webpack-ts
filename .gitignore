@@ -1,0 +1,15 @@
+### IDE ###
+
+.history
+.idea
+.vscode
+
+### OSX ###
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### JS ###
+node_modules
+public/build/*

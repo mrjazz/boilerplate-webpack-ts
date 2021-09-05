@@ -1,0 +1,16 @@
+{
+  "include": ["./assets/**/*"],  
+  "typeRoots": ["node_modules/@types"],
+  "compileOnSave": true,
+  "compilerOptions": {
+    "lib" : ["es5", "es6", "dom"],
+    "target": "es5",
+    "types": ["dayjs"],
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "esModuleInterop": true,
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true
+  }
+}
